@@ -1,7 +1,7 @@
 # SNAKE GAME
 #### Video Demo: [https://youtu.be/aC83N_r5UlY]
 #### Description: In this singleplayer game, the user controls a moving snake using WASD keys on the keyboard. The objective is for the user to move the snake to eat fruits that appear randomly on the screen.
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Two types of fruit:
 
 Non-flashing fruit: Worth 10 points; Flashing fruit: Gives snake a speed boost
