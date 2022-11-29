@@ -5,6 +5,7 @@ TODO
 
 Two types of fruit:
 Non flashing fruit: Worth 10 points
+
 Flashing fruit: Gives snake a speed boost
 
 If the snake touches itself, the game is over. 
